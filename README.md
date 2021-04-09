@@ -1,6 +1,6 @@
 ### Hi there, I'm VDoring! 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VDoring)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VDoring&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VDoring&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
