@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there, I'm VDoring! 👋
+## Hi there, I'm VDoring! 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VDoring&count_private=true)
 
