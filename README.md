@@ -2,7 +2,7 @@
 
 ## Hi there, I'm VDoring! 👋
 
-### [@VDoring 후원하러 가기! &rarr;](https://buymeacoffee.com/vdoring)
+### [@VDoring 초콜릿 사주기! &rarr;](https://buymeacoffee.com/vdoring)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VDoring&count_private=true)
 
